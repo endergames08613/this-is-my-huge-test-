@@ -21,7 +21,7 @@ function setup() {
   createCanvas(400, 400);
   fill(255)
   noStroke()
-tf(0,0,10,0,0,0,0,256)
+tf(0,0,10,0,0,0,0,16)
 
 }
 const mouse = {
